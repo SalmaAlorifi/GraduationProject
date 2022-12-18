@@ -6,4 +6,4 @@ The significance of this study is that that will assess people's emotions about 
 sentiment analysis, and topic modeling, and the results will demonstrate whether people's opinions are positive, negative, or neutral.
 
 
-this website was dealing with pycharm using django framework
+this website was desing with pycharm using django framework
